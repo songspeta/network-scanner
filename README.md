@@ -20,8 +20,8 @@ Bash скрипт для сканирования локальной сети с
 git clone https://github.com/songspeta/network-scanner.git
 cd network-scanner
 chmod +x check_ip.sh
-
- 📖 Использование
+```
+## 📖 Использование
 Сканирование всей сети (PREFIX.0.0/16)
 
 sudo ./check_ip.sh 192.168 eth0
