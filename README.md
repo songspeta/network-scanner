@@ -62,3 +62,20 @@ sudo ./scan_local_subnet.sh enp0s3
 + Linux/Unix система
 + Установлены утилиты: arping, ping, iproute2, timeout
 + Права root (sudo)
+
+## 🖼️ Скриншоты выполнения
+
+### Информация о сети
+![INFO](/home/spet/network-scanner/screen/network.png)
+
+### Task 1: Сканирование всей сети
+![Task 1 - Full network scan](/home/spet/network-scanner/screen/1_scan_all.png)
+
+### Task 1: Сканирование подсети
+![Task 1 - Subnet scan](/home/spet/network-scanner/screen/1_scan_pod.png)
+
+### Task 1: Сканирование одного IP
+![Task 1 - Single IP scan](/home/spet/network-scanner/screen/1_scan_odin.png)
+
+### Task 2: Автоматическое сканирование
+![Task 2 - Local subnet scan](/home/spet/network-scanner/screen/2_scan_loc.png)
